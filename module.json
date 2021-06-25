@@ -1,0 +1,15 @@
+{
+    "name": "Slider",
+    "alias": "slider",
+    "description": "Module Slider untuk E-Panel.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Slider\\Providers\\SliderServiceProvider"
+    ],
+    "aliases": {
+        "Slider": "Modules\\Slider\\Entities\\Slider"
+    },
+    "files": [],
+    "requires": []
+}
